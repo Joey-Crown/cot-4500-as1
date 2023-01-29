@@ -1,6 +1,6 @@
 # COP4500 Numerical Calculus Assignment 1
 
-This application was built using `Python` using the `NumPy` library.
+This application was built with `Python` using the `NumPy` library.
 
 ## Purpose 
 
