@@ -1,4 +1,4 @@
-# COP4500 Numerical Calculus Intro to GitHub and Python
+# COP4500 Numerical Calculus Assignment 1
 
 This application was built using `Python` using the `NumPy` library.
 
